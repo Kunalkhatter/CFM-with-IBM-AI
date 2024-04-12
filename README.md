@@ -1,4 +1,1 @@
-# Financial-Risk-Prediction
-assessment 1 & 2 link -https://github.com/ranuj10/smartInternzz
-assessment 3 link  https://github.com/ranuj10/smartInternzz3
-demo link  https://drive.google.com/file/d/1NnA0NMYJd6I7_SIxBj1bjYzDCMhBaflL/view?usp=sharing
+This project focuses on leveraging IBM Auto AI to revolutionize risk prediction in corporate finance management. The goal is to provide organizations with a robust tool for proactive decision-making by analyzing historical financial data and delivering precise risk assessments.
